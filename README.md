@@ -7,9 +7,8 @@ Il s'agissait de développer une application web pour gérer et rechercher des c
 
 ## Technologies
 
-- HTML
-- CSS
 - EJS
+- CSS
 - Express.js
 - Express-session
 - PostgreSQL
